@@ -1,8 +1,8 @@
 # Alternatives Fund Investor Lifecycle Tracker
 
-**Sara Iqbal** | MSc Data Science | Portfolio Project
+**Sara Iqbal** | MSc Data Science 
 
-[Live Dashboard](https://sara-iqbal.github.io/alternatives-fund-investor-lifecycle) | [Google Colab Notebook](https://colab.research.google.com/drive/YOUR_COLAB_LINK) | [LinkedIn](https://www.linkedin.com/in/saraiqbaldata0602/)
+[Live Dashboard]((https://sara-iqbal.github.io/Alternatives_fund_lifecycle/)) | [Google Colab Notebook](https://drive.google.com/file/d/1TmSYw-VhZs87lkYo17PWD3wd1iC8hqLQ/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/saraiqbaldata0602/)
 
 ---
 
@@ -144,13 +144,3 @@ alternatives-fund-investor-lifecycle/
 ```
 
 ---
-
-## Other Projects
-
-| Project | Tools | Description |
-|---|---|---|
-| Revenue Accrual & Fee Reconciliation Engine | Python, Pandas, openpyxl | 1,080 monthly fee calculations, 99.7% pre-investigation reconciliation accuracy |
-| Bond Index Replication & Rebalancing Engine | Python, SciPy, NumPy | 150-bond replication of iShares LQD, tracking error 8.4 bps, IR 0.87 |
-| Nexus Wealth Capital & Balance Sheet Optimizer | Python, Pandas, Streamlit | Basel III RWA engine, LCR monitoring, P&L waterfall |
-| Real-Time Credit Card Fraud Detection | Python, XGBoost, SHAP | ROC-AUC 97.4%, F1 82.1% on 284,807 transactions |
-| Algorithmic Trading Signal Engine | Python, PyTorch, LSTM | Directional accuracy 67.3%, Sharpe 1.42 |
